@@ -1,0 +1,53 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.project",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "vuejsBoilerPlate",
+    "packageName": "org.jhipster.project",
+    "packageFolder": "org/jhipster/project",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWVhMDVlNDAyMzY5NmJiZWIwYzdhOTc1ZjZiNWU2MGJmZTZhZjZmOGU0NzdkNWVjZmRkMTg0NjlhMmQ4OTM0YzAyOWUwMDM0NjNmZWY0NzQ3MDVmM2E4MGJmZmU1OTQ0MzBkMDFkYWIzYzI0ZWViNzQ2YWFkYzY0OGM1ODFkNjY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "vue",
+    "clientTheme": "minty",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1594986740941,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-vuejs",
+        "version": "1.9.1"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": [
+      {
+        "name": "generator-jhipster-vuejs",
+        "version": "1.9.1"
+      }
+    ],
+    "reactive": true
+  }
+}
